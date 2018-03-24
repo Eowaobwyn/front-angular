@@ -1,1 +1,3 @@
-# front-angular
+# Front-Angular
+
+Author : DIEVAL Corentin
